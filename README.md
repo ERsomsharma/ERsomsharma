@@ -1,103 +1,108 @@
 <h1 align="center">👋 Hi, I'm Som Sharma</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;ASP.NET+MVC+%7C+Django;Final+Year+CSE+Student;Passionate+Software+Developer&center=true&width=600&height=45">
+  <img
+    src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;ASP.NET+MVC+%7C+Django;Final+Year+CSE+Student;Aspiring+Software+Engineer&center=true&width=500&height=45"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-🎓 Diploma in Computer Science & Engineering <br>
-🏆 State-Level Skill India Competitor – Web Technology <br>
+🎓 Diploma in Computer Science & Engineering <br/>
+🏆 State-Level Skill India Competitor – Web Technology <br/>
 📍 India 🇮🇳
 </p>
 
 ---
 
-## 🚀 Professional Summary (For HR & Recruiters)
-- Final-year **Computer Science & Engineering** student with strong practical exposure
-- Skilled in **ASP.NET MVC & Django** for backend web development
-- Solid foundation in **Python, Java, C, JavaScript, and C#**
-- Experience building **real-world academic & industrial projects**
-- Actively preparing for **software developer / web developer roles**
+## 🚀 Professional Summary
+- Final-year **CSE student** with hands-on project experience  
+- Backend-focused **Web Developer** using **ASP.NET MVC & Django**  
+- Strong fundamentals in **Python, Java, C, C#, JavaScript**  
+- Built **real-world academic & industrial projects**  
+- Actively preparing for **on-campus & off-campus placements**
 
 ---
 
-## 🔗 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/somsharma07" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:som2000.sharma@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/ERsomsharma">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/somsharma07">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:som2000.sharma@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ERsomsharma">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+**Languages:**  
+Python · Java · C · C# · JavaScript  
 
-### 🌐 Frontend
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+**Frontend:**  
+HTML · CSS · Bootstrap  
 
-### ⚙️ Backend & Frameworks
-<p>
-<img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
+**Backend & Frameworks:**  
+ASP.NET MVC · Django  
 
-### 🗄️ Databases
-<p>
-<img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+**Databases:**  
+MS SQL Server · MySQL  
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Stats (SVG Only – Stable)
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=ERsomsharma&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Som Sharma GitHub Stats"
+    height="150"
   />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ERsomsharma&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERsomsharma&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
+    height="150"
   />
 </p>
 
 ---
 
-## 📌 Featured Projects (Pinned)
-- 🔹 **Event Book** – Event booking system using **ASP.NET MVC**
-- 🔹 **E-Cart Website** – **Django-based** e-commerce platform
-- 🔹 **AI Resume Analyzer** – Resume analysis & job recommendation system
+## 🔥 Contribution Streak
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=ERsomsharma&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## 🟢 Contribution Calendar
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ERsomsharma&theme=tokyonight"
+  />
+</p>
+
+---
+
+## 📌 Featured Projects
+- **Event Book**  
+  Event booking system built using **ASP.NET MVC**, role-based access & database integration  
+
+- **E-Cart Website**  
+  Django-based e-commerce platform with authentication, cart & order management  
+
+- **AI Resume Analyzer**  
+  Resume analysis and job recommendation system using **AI + Django**
 
 ---
 
 ## 🎯 Career Objective
-To secure an entry-level **Software Developer / Web Developer** role where I can apply my skills, grow technically, and contribute to impactful projects.
+To secure an entry-level **Software / Web Developer** role where I can apply my skills, grow technically, and contribute to impactful projects.
 
-⭐ *If you find my work valuable, please consider starring my repositories.*
+---
+
+⭐ *If you like my work, consider starring my repositories.*
