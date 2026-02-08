@@ -71,7 +71,10 @@
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ERsomsharma&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ERsomsharma&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Som Sharma GitHub Stats"
+  />
 </p>
 
 <p align="center">
@@ -79,7 +82,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERsomsharma&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERsomsharma&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
