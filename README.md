@@ -1,40 +1,66 @@
-<h1 align="center">Hi 👋, I'm Som Sharma</h1>
-<h3 align="center">Web Developer | .NET MVC | Django</h3>
+<h1 align="center">👋 Hi, I'm Som Sharma</h1>
+<h3 align="center">Web Developer | .NET MVC | Django | Tech Enthusiast</h3>
+
+<p align="center">
+🎓 Diploma in Computer Science & Engineering <br>
+🏆 State Level Skill India – Web Technology <br>
+📍 India 🇮🇳
+</p>
 
 ---
 
-### 🚀 About Me
-- 🎓 Diploma in Computer Science & Engineering
-- 💻 Skilled in **.NET MVC, Django, Web Technologies**
-- 🏆 State-level **Skill India Web Technology** participant
-- 🎯 Goal: Become a passionate software developer
+## 🚀 About Me
+- 💻 Passionate about **Web Development & Backend Systems**
+- 🧠 Working with **.NET MVC & Django**
+- 🔥 Love building real-world projects
+- 🎯 Goal: Become a successful software developer
 
 ---
 
-### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **Backend:** ASP.NET MVC, Django
-- **Database:** MSSQL, MySQL
-- **Tools:** Git, GitHub, VS Code
+## 🔗 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/somsharma07" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:som2000.sharma@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/ERsomsharma">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
-### 📌 Projects
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
+
+### ⚙️ Backend
+<img src="https://img.shields.io/badge/.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+
+### 🗄️ Database
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ERsomsharma&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERsomsharma&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📌 Featured Projects
 - 🔹 **Event Book** – Event booking system using .NET MVC
 - 🔹 **E-Cart Website** – Django based e-commerce platform
-- 🔹 **AI Resume Analyzer** – Resume analysis & job recommendation
+- 🔹 **AI Resume Analyzer** – Job recommendation system
 
----
-
-### 📊 GitHub Stats
-![Som's GitHub stats](https://github-readme-stats.vercel.app/api?username=ERsomsharma&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ERsomsharma&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Connect With Me
-- 💼 LinkedIn: _Add link here_
-- 🌐 Portfolio: _Add link here_
-
-⭐ **Star my repositories if you like my work!**
+⭐ *Don’t forget to star my repositories!*
