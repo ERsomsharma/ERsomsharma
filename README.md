@@ -1,19 +1,23 @@
 <h1 align="center">👋 Hi, I'm Som Sharma</h1>
-<h3 align="center">Web Developer | .NET MVC | Django | Tech Enthusiast</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;ASP.NET+MVC+%7C+Django;Final+Year+CSE+Student;Passionate+Software+Developer&center=true&width=600&height=45">
+</p>
 
 <p align="center">
 🎓 Diploma in Computer Science & Engineering <br>
-🏆 State Level Skill India – Web Technology <br>
+🏆 State-Level Skill India Competitor – Web Technology <br>
 📍 India 🇮🇳
 </p>
 
 ---
 
-## 🚀 About Me
-- 💻 Passionate about **Web Development & Backend Systems**
-- 🧠 Working with **.NET MVC & Django**
-- 🔥 Love building real-world projects
-- 🎯 Goal: Become a successful software developer
+## 🚀 Professional Summary (For HR & Recruiters)
+- Final-year **Computer Science & Engineering** student with strong practical exposure
+- Skilled in **ASP.NET MVC & Django** for backend web development
+- Solid foundation in **Python, Java, C, JavaScript, and C#**
+- Experience building **real-world academic & industrial projects**
+- Actively preparing for **software developer / web developer roles**
 
 ---
 
@@ -32,40 +36,62 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ### 🌐 Frontend
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
-<p align="left">
-<img src="https://img.shields.io/badge/.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+### ⚙️ Backend & Frameworks
+<p>
+<img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
-### 🗄️ Database
-<p align="left">
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+### 🗄️ Databases
+<p>
+<img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ERsomsharma&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ERsomsharma&theme=tokyonight"/>
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERsomsharma&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
-- 🔹 **Event Book** – Event booking system using .NET MVC
-- 🔹 **E-Cart Website** – Django based e-commerce platform
-- 🔹 **AI Resume Analyzer** – Job recommendation system
+## 📌 Featured Projects (Pinned)
+- 🔹 **Event Book** – Event booking system using **ASP.NET MVC**
+- 🔹 **E-Cart Website** – **Django-based** e-commerce platform
+- 🔹 **AI Resume Analyzer** – Resume analysis & job recommendation system
 
-⭐ *Don’t forget to star my repositories!*
+---
+
+## 🎯 Career Objective
+To secure an entry-level **Software Developer / Web Developer** role where I can apply my skills, grow technically, and contribute to impactful projects.
+
+⭐ *If you find my work valuable, please consider starring my repositories.*
